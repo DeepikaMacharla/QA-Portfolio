@@ -1,6 +1,6 @@
 # Deepika Macharla - QA Test Engineer Portfolio
 
-Welcome to my QA portfolio! This space showcases my practical experience, automation scripts, and testing knowledge. I have over 3.7 years of experience in both manual and automated testing across banking and telecom domains.
+Welcome to my QA portfolio! This space showcases my practical experience and testing knowledge. I have over 3.7 years of experience in both manual and automated testing across banking and telecom domains.
 
 ---
 
