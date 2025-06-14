@@ -32,19 +32,7 @@ Welcome to my QA portfolio! This space showcases my practical experience, automa
 
 ---
 
-## 🔧 Automation Scripts
-
-Repository: [`/automation-scripts`](./automation-scripts)
-
-- Sample Selenium scripts using TestNG & Page Object Model
-- Data-driven tests with Excel integration
-- Assertions and reporting with Extent Reports
-
----
-
 ## 📊 Test Artifacts
-
-Repository: [`/test-artifacts`](./test-artifacts)
 
 Includes:
 - Test Plan Template
@@ -59,33 +47,9 @@ Includes:
 - Microsoft Azure Fundamentals (AZ-900)
 - AWS Certified Data Engineer – Associate
 - Full Stack Testing Certification
-
----
-
-## 📚 Blogs / Articles *(optional)*
-> You can add markdown or external links:
-> - How to Write Better Bug Reports
-> - Common Selenium Interview Questions
-> - Using Postman for API Automation
-
----
-
-## 📁 Repository Structure (suggested)
-```
-qa-portfolio/
-├── automation-scripts/
-│   ├── login_test.java
-│   ├── testng.xml
-├── test-artifacts/
-│   ├── test-plan.docx
-│   ├── bug-report.xlsx
-│   └── postman-collection.json
-├── README.md
-```
-
 ---
 
 ## 🙏 Thank You
-Feel free to connect with me on [LinkedIn](https://linkedin.com/) or email me at deepikamacharla1142@gmail.com if you'd like to collaborate or learn more!
+Feel free to connect with me on email at deepikamacharla1142@gmail.com if you'd like to collaborate or learn more!
 
 ---
