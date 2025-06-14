@@ -35,10 +35,10 @@ Welcome to my QA portfolio! This space showcases my practical experience and tes
 ## 📊 Test Artifacts
 
 Includes:
-- Test Plan Template
-- Test Case Excel Sheets
+- Test Plan Strategy, Test Catalogue
+- DTP, RTM, Test Suite, TEP, TER
 - Bug Report Samples
-- API Collection (Postman)
+- API Collection (Postman, SOAPUI)
 
 ---
 
